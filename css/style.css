@@ -2,7 +2,9 @@ body {
     background-color: black;
     color:darkgoldenrod;
 }
-img {image size: height: 350px; width:360px;}
+img {
+    image height:350px; width:360px;
+}
 
 
 span {color: brown;
@@ -11,7 +13,7 @@ font-size: larger;}
 
 .top-section {color: blueviolet;}
 
-.bottom-section {background-color: aquamarine;}
+
 
 .outro {font-size: xx-large;
 
@@ -19,3 +21,21 @@ font-size: larger;}
 .div-1 {font-size: small;
 color: lightpink;
 font-weight: bolder;}
+
+.box {background-color:pink;
+margin: 100px;
+
+border: 50px solid greenyellow;
+
+padding: 100px; 
+
+
+}
+
+/*
+margin
+Border
+padding
+
+*/
+
