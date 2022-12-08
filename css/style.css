@@ -2,8 +2,13 @@ body {
     background-color: black;
     color:darkgoldenrod;
 }
-
-p {
-}
-
 img {image size: height: 350px; width:360px;}
+
+div {
+    background-color: aquamarine;
+    width:500px ;
+    
+}
+span {color: brown;
+font-weight: bold;
+font-size: larger;}
