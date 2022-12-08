@@ -4,11 +4,18 @@ body {
 }
 img {image size: height: 350px; width:360px;}
 
-div {
-    background-color: aquamarine;
-    width:500px ;
-    
-}
+
 span {color: brown;
 font-weight: bold;
 font-size: larger;}
+
+.top-section {color: blueviolet;}
+
+.bottom-section {background-color: aquamarine;}
+
+.outro {font-size: xx-large;
+
+}
+.div-1 {font-size: small;
+color: lightpink;
+font-weight: bolder;}
