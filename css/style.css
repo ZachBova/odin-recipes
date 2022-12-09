@@ -25,17 +25,45 @@ font-weight: bolder;}
 .box {background-color:pink;
 margin: 100px;
 
-border: 50px solid greenyellow;
+border: 5px solid greenyellow;
 
-padding: 100px; 
+padding: 10px; 
 
 
 }
 
+.box2 {
+    width: fit-content;
+background-color: antiquewhite;
+font-size: x-large;
+color: chartreuse;
+
+margin: 100px;
+
+border: 10px solid red
+
+
+}
 /*
 margin
 Border
 padding
 
 */
+
+.container {
+    background-color: aquamarine;
+    font-size: larger;
+border: 5px solid red;
+display: flex;
+}
+
+.container > div {
+     flex: 1;
+}
+
+.logout {
+flex: 2;
+
+} 
 
